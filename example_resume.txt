@@ -1,0 +1,97 @@
+# ARJUN SHARMA
+
+Bangalore, India | [arjun.sharma@email.com](mailto:arjun.sharma@email.com) | +91-XXXXXXXXXX
+GitHub: github.com/arjunsharma | LinkedIn: linkedin.com/in/arjunsharma
+
+## PROFESSIONAL SUMMARY
+
+AI/Generative AI Engineer with 2+ years of experience building LLM-powered applications and AI services using Python. Experienced in developing Retrieval-Augmented Generation (RAG) pipelines, integrating LLM APIs, working with embeddings and vector databases, and building REST APIs using FastAPI. Strong understanding of prompt engineering, NLP concepts, and deploying AI features into production applications.
+
+## TECHNICAL SKILLS
+
+* **Programming:** Python, SQL
+* **Generative AI:** LLMs, Prompt Engineering, RAG, LLM APIs
+* **AI Frameworks:** LangChain, LlamaIndex
+* **NLP:** Text Classification, Text Preprocessing, Embeddings, Transformers
+* **Vector Databases:** FAISS, ChromaDB
+* **Backend:** FastAPI, REST APIs
+* **Machine Learning:** Scikit-learn, Model Evaluation, Feature Engineering
+* **Tools:** Git, Docker
+* **Libraries:** NumPy, Pandas, HuggingFace Transformers
+
+## EXPERIENCE
+
+### AI Engineer
+
+TechSolutions AI Pvt. Ltd. — Bangalore, India
+2024 – Present
+
+* Developed LLM-powered applications using Python, LangChain, and LLM APIs.
+* Built Retrieval-Augmented Generation pipelines using document chunking, embeddings, vector search, and context-aware generation.
+* Integrated LLM APIs into backend applications using FastAPI and REST APIs.
+* Implemented semantic search using embedding models and FAISS vector databases.
+* Designed prompt templates and improved response quality through prompt engineering and evaluation.
+* Worked with product and software engineering teams to integrate AI capabilities into user-facing applications.
+* Containerized AI services using Docker for consistent development and deployment.
+* Evaluated AI-generated responses for relevance, accuracy, and latency.
+
+### Python Developer
+
+DataSoft Technologies — Pune, India
+2023 – 2024
+
+* Developed Python applications and REST APIs for internal business applications.
+* Processed structured and unstructured data using Pandas and NumPy.
+* Built data preprocessing and feature engineering workflows for machine learning applications.
+* Worked with SQL databases for data extraction and analysis.
+* Collaborated with software engineers to integrate machine learning functionality into applications.
+
+## PROJECTS
+
+### AI Document Assistant — RAG Application
+
+**Python, LangChain, FastAPI, FAISS, HuggingFace**
+
+* Built a RAG-based question-answering application for querying large collections of documents.
+* Implemented document loading, text splitting, embedding generation, vector indexing, retrieval, and LLM-based response generation.
+* Used FAISS for efficient semantic similarity search.
+* Developed a FastAPI backend to expose the RAG pipeline through REST APIs.
+* Added prompt templates to improve answer relevance and reduce unsupported responses.
+
+### Customer Support AI Assistant
+
+**Python, LangChain, LLM API, FastAPI**
+
+* Developed an LLM-powered chatbot for answering customer support queries.
+* Implemented conversation-aware prompting and retrieval of relevant knowledge-base information.
+* Integrated an external LLM API through a Python backend.
+* Evaluated responses using relevance and factual consistency criteria.
+* Built API endpoints for integrating the assistant with web applications.
+
+### NLP Text Classification
+
+**Python, HuggingFace, Scikit-learn**
+
+* Built a text classification system for categorizing customer queries.
+* Performed text preprocessing and feature extraction.
+* Experimented with transformer-based NLP models.
+* Evaluated models using accuracy, precision, recall, and F1-score.
+
+## EDUCATION
+
+Bachelor of Technology in Computer Science Engineering
+ABC Institute of Technology, India
+2020 – 2024
+
+## CERTIFICATIONS
+
+* Generative AI and Large Language Models
+* Python for Machine Learning
+* Machine Learning Fundamentals
+
+## ADDITIONAL INFORMATION
+
+* Strong interest in Generative AI, LLM applications, and RAG systems.
+* Comfortable working with Python-based AI application development.
+* Familiar with modern NLP and transformer-based architectures.
+* Experience collaborating with product and engineering teams.
