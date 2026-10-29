@@ -1,0 +1,32 @@
+Job Title: MLOps Engineer
+Company: CloudML Systems
+Location: Mumbai, India (Hybrid)
+Experience: 2-5 years
+
+About the Role:
+We are looking for an MLOps Engineer to build reliable infrastructure for machine learning systems. You will help automate model training, deployment, monitoring, and lifecycle management.
+
+Responsibilities:
+- Build CI/CD pipelines for machine learning workflows
+- Automate model training and deployment processes
+- Package and deploy models using Docker and Kubernetes
+- Monitor model performance, data drift, and system health
+- Manage experiment tracking and model versioning
+- Collaborate with data scientists and ML engineers on production systems
+
+Required Skills:
+- Strong Python and Linux fundamentals
+- Experience with Docker and Kubernetes
+- Knowledge of CI/CD tools and Git
+- Experience with MLflow or similar experiment tracking tools
+- Understanding of model serving and monitoring
+- Familiarity with cloud platforms such as AWS, GCP, or Azure
+
+Good to Have:
+- Experience with Kubeflow
+- Knowledge of Terraform or infrastructure as code
+- Experience with Airflow
+- Familiarity with feature stores
+- Knowledge of distributed systems
+
+Compensation: INR 13-21 LPA

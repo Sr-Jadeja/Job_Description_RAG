@@ -1,0 +1,31 @@
+Job Title: NLP Engineer
+Company: LanguageAI Labs
+Location: Pune, India (On-site)
+Experience: 2-5 years
+
+About the Role:
+We are building next-generation conversational AI products and need an NLP Engineer to join our core team. You will work on everything from text classification to LLM fine-tuning.
+
+Responsibilities:
+- Design and build NLP pipelines for text classification, NER, sentiment analysis, and summarization
+- Fine-tune pre-trained transformer models (BERT, RoBERTa, LLaMA) for domain-specific tasks
+- Build and maintain RAG (Retrieval-Augmented Generation) pipelines using LangChain or LlamaIndex
+- Evaluate model performance using standard NLP benchmarks
+- Collaborate with product teams to integrate NLP features into applications
+- Stay updated with latest research papers and implement relevant techniques
+
+Required Skills:
+- Strong Python and NLP fundamentals
+- Experience with HuggingFace Transformers library
+- Knowledge of embedding models and vector databases (FAISS, Pinecone, Weaviate)
+- Experience building RAG pipelines with LangChain or LlamaIndex
+- Understanding of LLM APIs (OpenAI, Anthropic, Groq)
+- Experience with text preprocessing (tokenization, lemmatization, stopword removal)
+
+Good to Have:
+- Experience fine-tuning LLMs using LoRA or QLoRA
+- Knowledge of prompt engineering techniques
+- Familiarity with evaluation frameworks (RAGAS, TruLens)
+- Published research or open-source contributions in NLP
+
+Compensation: INR 15-25 LPA

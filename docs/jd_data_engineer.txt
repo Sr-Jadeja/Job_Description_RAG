@@ -1,0 +1,32 @@
+Job Title: Data Engineer
+Company: DataWorks Technologies
+Location: Gurgaon, India (Hybrid)
+Experience: 2-5 years
+
+About the Role:
+We are looking for a Data Engineer to build scalable data pipelines and infrastructure for analytics and machine learning applications. You will work with data scientists, analysts, and software engineers.
+
+Responsibilities:
+- Design and maintain ETL and ELT data pipelines
+- Build data processing workflows using Python and SQL
+- Work with structured and unstructured datasets
+- Develop data quality checks and monitoring processes
+- Optimize data pipelines for reliability and performance
+- Collaborate with ML teams to provide production-ready datasets
+
+Required Skills:
+- Strong Python and SQL skills
+- Experience with ETL or ELT pipeline development
+- Knowledge of relational databases and data modeling
+- Experience with Apache Spark or similar processing frameworks
+- Understanding of data warehousing concepts
+- Familiarity with Git and cloud platforms
+
+Good to Have:
+- Experience with Airflow
+- Knowledge of Kafka or other streaming platforms
+- Experience with AWS, GCP, or Azure
+- Familiarity with Databricks
+- Knowledge of Docker
+
+Compensation: INR 10-17 LPA

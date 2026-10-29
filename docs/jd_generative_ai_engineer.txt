@@ -1,0 +1,31 @@
+Job Title: Generative AI Engineer
+Company: GenTech AI Solutions
+Location: Hyderabad, India (Remote)
+Experience: 1-4 years
+
+About the Role:
+We are hiring a Generative AI Engineer to develop applications powered by large language models. You will design AI workflows that solve real-world business problems.
+
+Responsibilities:
+- Build LLM-powered applications using modern AI frameworks
+- Design prompt templates and structured generation workflows
+- Develop RAG pipelines for domain-specific knowledge
+- Integrate LLM APIs into backend services
+- Evaluate and improve response quality, accuracy, and latency
+- Work with product and engineering teams to deploy GenAI features
+
+Required Skills:
+- Strong Python programming skills
+- Understanding of LLMs and transformer architectures
+- Experience with OpenAI, Anthropic, or similar LLM APIs
+- Experience with LangChain or LlamaIndex
+- Knowledge of embeddings and vector databases
+- Understanding of prompt engineering and LLM evaluation
+
+Good to Have:
+- Experience with fine-tuning using LoRA or QLoRA
+- Knowledge of RAG evaluation tools such as RAGAS
+- Experience with FastAPI and Docker
+- Familiarity with cloud AI services
+
+Compensation: INR 12-22 LPA

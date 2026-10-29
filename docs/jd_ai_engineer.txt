@@ -1,0 +1,31 @@
+Job Title: AI Engineer
+Company: InnovateAI Technologies
+Location: Bangalore, India (Hybrid)
+Experience: 2-4 years
+
+About the Role:
+We are looking for an AI Engineer to build and integrate intelligent AI solutions into production applications. You will work closely with software, data, and product teams.
+
+Responsibilities:
+- Develop and integrate machine learning and AI models into applications
+- Build AI services and APIs using Python and FastAPI
+- Work with LLMs, embeddings, and retrieval-based systems
+- Evaluate AI outputs and improve model accuracy and reliability
+- Collaborate with engineering teams to deploy AI features
+- Monitor AI systems in production and troubleshoot issues
+
+Required Skills:
+- Strong Python programming skills
+- Experience with machine learning and deep learning concepts
+- Knowledge of LLM APIs and transformer models
+- Experience with FastAPI or similar frameworks
+- Understanding of embeddings and vector databases
+- Version control with Git
+
+Good to Have:
+- Experience with LangChain or LlamaIndex
+- Knowledge of Docker and cloud platforms
+- Experience with RAG pipelines
+- Familiarity with MLflow or similar tools
+
+Compensation: INR 12-20 LPA

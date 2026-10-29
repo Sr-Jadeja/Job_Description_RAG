@@ -1,0 +1,31 @@
+Job Title: Machine Learning Engineer
+Company: Nexus AI Solutions
+Location: Hyderabad, India (Remote)
+Experience: 1-3 years
+
+About the Role:
+Nexus AI is hiring ML Engineers to help build and scale our AI infrastructure. You will be responsible for taking models from research to production.
+
+Responsibilities:
+- Convert research prototypes into production-ready ML services
+- Build REST APIs using FastAPI or Flask to serve ML models
+- Optimize models for inference speed and memory usage (quantization, pruning)
+- Write unit tests and integration tests for ML pipelines
+- Work with DevOps to containerize and deploy models using Docker
+- Monitor deployed models for data drift and performance degradation
+
+Required Skills:
+- Strong Python programming skills
+- Experience with PyTorch or TensorFlow for model training and inference
+- Familiarity with model deployment (FastAPI, Flask, or similar)
+- Understanding of model optimization techniques (ONNX, quantization)
+- Version control with Git
+- Basic understanding of Docker and containerization
+
+Good to Have:
+- Experience with LangChain, LlamaIndex, or RAG pipelines
+- Knowledge of Kubernetes
+- Experience with vector databases (Pinecone, FAISS, ChromaDB)
+- Familiarity with MLOps tools (MLflow, DVC, Weights and Biases)
+
+Compensation: INR 10-16 LPA

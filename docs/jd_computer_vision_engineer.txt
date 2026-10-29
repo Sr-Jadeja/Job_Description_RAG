@@ -1,0 +1,32 @@
+Job Title: Computer Vision Engineer
+Company: VisionTech Labs
+Location: Chennai, India (On-site)
+Experience: 2-5 years
+
+About the Role:
+We are looking for a Computer Vision Engineer to develop AI systems that understand and analyze images and video. You will work on computer vision models from experimentation through deployment.
+
+Responsibilities:
+- Develop image classification, object detection, and segmentation models
+- Process and analyze image and video datasets
+- Fine-tune deep learning models for computer vision tasks
+- Build inference pipelines for real-time applications
+- Evaluate models using appropriate vision metrics
+- Deploy and monitor computer vision models in production
+
+Required Skills:
+- Strong Python programming skills
+- Experience with OpenCV and image processing
+- Experience with PyTorch or TensorFlow
+- Knowledge of CNNs, object detection, and image segmentation
+- Understanding of model evaluation and optimization
+- Familiarity with Git and Docker
+
+Good to Have:
+- Experience with YOLO or Detectron2
+- Knowledge of OCR systems
+- Experience with edge AI deployment
+- Familiarity with cloud platforms
+- Experience with video analytics
+
+Compensation: INR 11-18 LPA

@@ -1,0 +1,31 @@
+Job Title: Data Scientist
+Company: TechCorp Analytics
+Location: Bangalore, India (Hybrid)
+Experience: 2-4 years
+
+About the Role:
+We are looking for a Data Scientist to join our growing analytics team. You will work closely with product and engineering teams to build machine learning models that drive business decisions.
+
+Responsibilities:
+- Build and deploy machine learning models for classification, regression, and clustering problems
+- Work with large datasets using Python and SQL
+- Perform EDA and feature engineering on structured and unstructured data
+- Collaborate with data engineers to build data pipelines
+- Present findings and model results to non-technical stakeholders
+- Monitor model performance in production and retrain as needed
+
+Required Skills:
+- Proficiency in Python (pandas, numpy, scikit-learn)
+- Experience with machine learning algorithms (Random Forest, XGBoost, Neural Networks)
+- SQL for data extraction and analysis
+- Experience with at least one deep learning framework (TensorFlow or PyTorch)
+- Knowledge of MLflow or similar experiment tracking tools
+- Strong communication and storytelling skills
+
+Good to Have:
+- Experience with LangChain or LLM-based applications
+- Cloud experience (AWS, GCP, or Azure)
+- Knowledge of Docker and CI/CD pipelines
+- Experience with time series forecasting
+
+Compensation: INR 12-18 LPA

@@ -1,0 +1,32 @@
+Job Title: AI Product Engineer
+Company: ProductAI Labs
+Location: Noida, India (Remote)
+Experience: 1-4 years
+
+About the Role:
+We are looking for an AI Product Engineer to turn AI capabilities into user-facing products. You will work across AI, backend engineering, and product development to deliver reliable AI features.
+
+Responsibilities:
+- Build and integrate AI features into production applications
+- Develop backend APIs for AI-powered products
+- Work with LLMs, RAG, and other AI workflows
+- Collaborate with product and design teams to define AI features
+- Test and evaluate AI functionality before release
+- Monitor application performance and improve user experience
+
+Required Skills:
+- Strong Python programming skills
+- Experience with REST APIs and FastAPI or Flask
+- Understanding of machine learning and LLM concepts
+- Experience with LLM APIs and prompt engineering
+- Knowledge of RAG and vector databases
+- Familiarity with Git and software development practices
+
+Good to Have:
+- Experience with LangChain or LlamaIndex
+- Knowledge of React or frontend development
+- Experience with Docker and cloud deployment
+- Familiarity with AI evaluation frameworks
+- Understanding of agentic AI workflows
+
+Compensation: INR 11-19 LPA

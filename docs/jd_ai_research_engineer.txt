@@ -1,0 +1,32 @@
+Job Title: AI Research Engineer
+Company: DeepMind Technologies India
+Location: Delhi, India (Hybrid)
+Experience: 2-5 years
+
+About the Role:
+We are looking for an AI Research Engineer to experiment with modern machine learning techniques and translate research ideas into working systems. You will collaborate with researchers and engineering teams.
+
+Responsibilities:
+- Implement and evaluate machine learning research ideas
+- Train and fine-tune deep learning models
+- Reproduce results from recent AI research papers
+- Design experiments and analyze model performance
+- Develop prototypes for new AI capabilities
+- Collaborate with researchers to move successful ideas toward production
+
+Required Skills:
+- Strong Python programming and mathematics fundamentals
+- Experience with PyTorch or TensorFlow
+- Understanding of deep learning and transformer architectures
+- Ability to read and implement research papers
+- Experience with experiment tracking and model evaluation
+- Strong analytical and problem-solving skills
+
+Good to Have:
+- Experience with LLMs or multimodal models
+- Knowledge of distributed model training
+- Research publications or open-source contributions
+- Experience with HuggingFace
+- Familiarity with GPU optimization
+
+Compensation: INR 15-25 LPA
